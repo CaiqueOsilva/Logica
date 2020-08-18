@@ -1,2 +1,2 @@
-# L-gica
+# Logica
 Lógica de programação
